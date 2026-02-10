@@ -52,7 +52,7 @@ StudyBuddy-AI uses Machine Learning and NLP techniques to:
 
  🧪 How to Run
 1. Clone the repo  
-   `git clone https://github.com/your-username/StudyBuddy-AI.git`
+   `git clone https://github.com/yuvazyli/StudyBuddy-AI.git`
 2. Install requirements  
    `pip install -r requirements.txt`
 3. Run notebooks from `notebooks/`

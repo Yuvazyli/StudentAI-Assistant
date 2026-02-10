@@ -42,7 +42,10 @@ StudyBuddy-AI uses Machine Learning and NLP techniques to:
 ---
 
  📸 Demo
-![Text Summarization Demo](screenshots/summarization_demo.png)
+![Text Summarization Demo](screenshots/summarization_demo.png.png)
+### Question Generation
+![Question Generation Demo](screenshots/question_generation_demo.png.png)
+
 
 
 ---
